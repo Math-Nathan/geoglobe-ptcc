@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c6cbcef1bd34254997ebd9f0964529d, type: 3}
+  m_Name: Brazil_Data
+  m_EditorClassIdentifier: Assembly-CSharp::CountryData
+  countryName: Brasil
+  capital: "Bras\xEDlia"
+  population: 213.562.666
+  area: 8.515.767
+  continent: America
+  curiosity: "O Brasil \xE9 o maior pa\xEDs da Am\xE9rica do Sul e o quinto maior
+    do mundo! \r\nAbriga a maior floresta tropical do planeta, a Amaz\xF4nia, que
+    cobre \r\nmais de 5 milh\xF5es de km\xB2 e \xE9 lar de 10% de todas as esp\xE9cies
+    de \r\nanimais e plantas conhecidas na Terra. Por isso o Brasil \xE9 chamado
+    \r\nde \"pulm\xE3o do mundo\"!"
+  flag: {fileID: 2100000, guid: 5bc92ed2be92f60428a8d82b43ea3c6e, type: 2}
+  countryMeshPrefab: {fileID: 919132149155446097, guid: 02a9a98f602d19b45a2133183ac7e772, type: 3}
